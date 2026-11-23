@@ -24,7 +24,7 @@ Caso queira clonar o repositório e rodar o código na sua máquina:
 1. **Pré-requisitos:** Certifique-se de ter o Flutter instalado e configurado (`flutter doctor`).
 2. **Clonar o repositório:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com https://github.com/jucathegoat/Listas_inSQLITE
    ```
 3. **Instalar as dependências:**
    ```bash
@@ -40,3 +40,4 @@ Caso queira clonar o repositório e rodar o código na sua máquina:
 * **Flutter & Dart** (Frontend)
 * **Sqflite** (Banco de dados local)
 #
+
