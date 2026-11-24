@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'banco_sessoes.dart';
 import 'sessao_estudo.dart';
 
@@ -118,9 +119,7 @@ class _TelaInicioState extends State<TelaInicio> {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
           content: Text(
-            gravou
-                ? 'Sessão salva. Use Consultar para atualizar a lista.'
-                : 'Não foi possível salvar a alteração. Abra o formulário e tente novamente.',
+            gravou ? 'Sessão salva. Use Consultar para atualizar a lista.' : 'Não foi possível salvar a alteração. Abra o formulário e tente novamente.',
           ),
         ),
       );
