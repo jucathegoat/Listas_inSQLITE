@@ -11,7 +11,7 @@ Um aplicativo simples e direto para gerenciamento de listas local, desenvolvido 
 
 Se você quer apenas testar o aplicativo sem precisar configurar o ambiente de desenvolvimento, pode baixar o arquivo `.apk` pronto para instalação através do link abaixo:
 
-👉 [Baixar APK do Aplicativo] COMING SOON
+👉 [Baixar APK do Aplicativo] (https://github.com/jucathegoat/Listas_inSQLITE/releases/download/AppTag/app-release.apk)
 
 > **Nota:** Por não estar na Play Store, o Android pode exibir um aviso de "Fonte Desconhecida" ao instalar. Pode seguir com a instalação tranquilamente, é apenas a trava padrão do sistema para arquivos APK externos.
 
